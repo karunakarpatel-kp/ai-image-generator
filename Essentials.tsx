@@ -121,7 +121,7 @@ export const SEO_OBJ: SEOObjProps = {
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
-    featuredImageAltText: "a-person-with-computer",
+    featuredImageAltText: "ai-text-to-image-generator",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
     tags: [
       { tag: "ai-text-image-generator", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
@@ -140,7 +140,7 @@ export const SEO_OBJ: SEOObjProps = {
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
-    featuredImageAltText: "a-person-with-computer",
+    featuredImageAltText: "ai-text-to-image-generator",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
   },
 
@@ -153,7 +153,7 @@ export const SEO_OBJ: SEOObjProps = {
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
-    featuredImageAltText: "a-person-with-computer",
+    featuredImageAltText: "ai-text-to-image-generator",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
   },
 
@@ -166,7 +166,7 @@ export const SEO_OBJ: SEOObjProps = {
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
-    featuredImageAltText: "a-person-with-computer",
+    featuredImageAltText: "ai-text-to-image-generator",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
   },
 };
