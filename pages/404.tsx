@@ -17,11 +17,11 @@ const Custom404: NextPageWithLayout = () => {
   return (
     <>
       <HeaderSection
-        title="Page Not Found | BloggingLove"
-        description="This is an custom 404 page for BloggingLove Blog"
+        title="Page Not Found | TextToImageGenerator"
+        description="This is an custom 404 page for TextToImageGenerator Blog"
         publishedTime="2024-01-29T17:07:31+05:30"
         lastUpdatedTime="2024-01-29T17:07:31+05:30"
-        url="https://www.blogginglover.in/404"
+        url="https://www.aiimagegenerator.co.in/404"
         image={NotFoundSvgImage}
       />
       <Grid container minHeight="80vh">
@@ -57,7 +57,7 @@ const Custom404: NextPageWithLayout = () => {
             <List sx={{ listStyle: "square", listStylePosition: "outside" }}>
               <ListItem sx={{ display: "list-item" }}>
                 <ListItemText>
-                  <Link href="/">Text To Image Converter</Link>
+                  <Link href="/">AI Image Generator</Link>
                 </ListItemText>
               </ListItem>
               {/* <ListItem sx={{ display: "list-item" }}>

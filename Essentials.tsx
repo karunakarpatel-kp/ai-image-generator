@@ -115,9 +115,9 @@ export const SEO_OBJ: SEOObjProps = {
   HOME_PAGE: {
     absoluteURL: blogPostURLS.HOME_PAGE_ABSOLUTE,
     relativeURL: blogPostURLS.HOME_PAGE_RELATIVE,
-    title: "Text To Image Converter ai tool 2024",
+    title: "AI Text to Image Genertor",
     description:
-      "Our Text to Image AI Converter utilizes advanced artificial intelligence algorithms to convert plain text into visually appealing images. Whether you're creating social media graphics, presentations, or artistic designs, our platform simplifies the conversion process, offering a seamless user experience.",
+      "Our ai text to image generator utilizes advanced artificial intelligence algorithms to convert plain text into hd images. Whether you're creating social media graphics, presentations, or artistic designs, our platform simplifies the conversion process, offering a seamless user experience.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-01-29T17:07:55+00:00",
     featuredImage: textToImageWelcomeImage,
@@ -126,7 +126,7 @@ export const SEO_OBJ: SEOObjProps = {
     tags: [
       { tag: "ai-text-image-generator", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
       { tag: "text-to-image-ai-tool", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
-      { tag: "text-to-image-converter", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
+      { tag: "text-to-image-generator", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
       { tag: "Karunakar Patel", href: `${blogPostURLS.HOME_PAGE_RELATIVE}` },
     ],
   },
@@ -134,9 +134,9 @@ export const SEO_OBJ: SEOObjProps = {
   POLICY_PAGE: {
     absoluteURL: blogPostURLS.PRIVACY_PAGE_ABSOLUTE,
     relativeURL: blogPostURLS.PRIVACY_PAGE_RELATIVE,
-    title: "Privacy Policy | BloggingLover",
+    title: "Privacy Policy | AITextToImageGenerator",
     description:
-      "Welcome to blogginglover privacy policy. In here you can find all the details about privacy policy of Blogginglover",
+      "Welcome to ai text to image generator privacy policy. In here you can find all the details about privacy policy of AITextToImageGenerator",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-01-29T17:07:55+00:00",
     featuredImage: textToImageWelcomeImage,
@@ -147,9 +147,9 @@ export const SEO_OBJ: SEOObjProps = {
   CONTACT_PAGE: {
     absoluteURL: blogPostURLS.CONTACT_PAGE_ABSOLUTE,
     relativeURL: blogPostURLS.CONTACT_PAGE_RELATIVE,
-    title: "Contact Us | BloggingLover",
+    title: "Contact Us | AITextToImageGenerator",
     description:
-      "Welcome to blogginglover contact page. In here you can find all the details of about Blogginglover contact information and a way to contact administrator of the blogginglover site.",
+      "Welcome to ai text to image generator contact page. In here you can find all the details of about ai-text-to-image-generator contact information and a way to contact administrator of the ai text to image generator site.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-01-29T17:07:55+00:00",
     featuredImage: textToImageWelcomeImage,
@@ -160,9 +160,9 @@ export const SEO_OBJ: SEOObjProps = {
   DISCLAIMER_PAGE: {
     absoluteURL: blogPostURLS.DISCLAIMER_PAGE_ABSOLUTE,
     relativeURL: blogPostURLS.DISCLAIMER_PAGE_RELATIVE,
-    title: "Disclaimer | BloggingLover",
+    title: "Disclaimer | AITextToImageGenerator",
     description:
-      "Welcome to blogginglover disclaimer page. In here you can find all the details of about Blogginglover Disclaimer and its policies.",
+      "Welcome to ai-text-to-image-generator disclaimer page. In here you can find all the details of about AITextToImageGenerator Disclaimer and its policies.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
     publishedTime: "2024-01-29T17:07:55+00:00",
     featuredImage: textToImageWelcomeImage,

@@ -53,15 +53,15 @@ const PrivacyPage: NextPageWithLayout = () => {
       >
         <Grid item md={8} lg={8}>
           <Paragraph>
-            This Privacy Policy outlines how <B>Blogginglover.in</B> collects, uses, and protects the personal
+            This Privacy Policy outlines how <B>AIImageGenerator.co.in</B> collects, uses, and protects the personal
             information you provide while using our website. We are committed to ensuring the privacy and security of
-            your personal information. By using Blogginglover.in, you agree to the terms and practices described in this
-            policy.
+            your personal information. By using AIImageGenerator.co.in, you agree to the terms and practices described
+            in this policy.
           </Paragraph>
           <HeadingTwo id="heading" title="Information We Collect" />
           <Paragraph>
-            When you visit Blogginglover.in, we may collect certain personally identifiable information, including but
-            not limited to:
+            When you visit AIImageGenerator.co.in, we may collect certain personally identifiable information, including
+            but not limited to:
           </Paragraph>
           <List sx={{ listStyle: "square", listStylePosition: "outside" }}>
             <ListItem sx={{ display: "list-item" }}>

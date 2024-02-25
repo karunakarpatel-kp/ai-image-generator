@@ -50,13 +50,13 @@ const Navigation = () => {
                   <Grid item xs={6} sm={6} md={10} lg={10}>
                     <Box sx={{ display: { xs: "none", lg: "block", md: "block" }, marginLeft: "-12px" }}>
                       <Link href="/" onClick={onLogoClickHandler}>
-                        <Image alt="Logo" src={Logo} width={180} height={42} />
+                        <Image alt="Logo" src={Logo} width={183} height={42} />
                       </Link>
                     </Box>
                     {/* For Mobile Phones */}
                     <Box sx={{ display: { xs: "block", md: "none", lg: "none" } }}>
                       <Link href="/" onClick={onLogoClickHandler}>
-                        <Image alt="Logo" src={Logo} width={152} height={35} />
+                        <Image alt="Logo" src={Logo} width={155} height={35} />
                       </Link>
                     </Box>
                   </Grid>

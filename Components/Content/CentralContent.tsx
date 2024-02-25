@@ -17,7 +17,7 @@ const CentralContent = () => {
         <Grid item xs={12} sm={11} md={10} lg={9} minHeight="100vh" border={0} sx={{ pl: { xs: 1 }, pr: { xs: 1 } }}>
           <HeadingTwo id="heading-two" title="Introduction:" key="heading-two" />
           <Paragraph>
-            Our Text to Image AI Converter utilizes advanced artificial intelligence algorithms to convert plain{" "}
+            Our AI Text to Image generator utilizes advanced artificial intelligence algorithms to convert plain{" "}
             <B>text</B> into visually appealing <B>images</B>. Whether you are creating social media graphics,
             presentations, or artistic designs, our platform simplifies the conversion process, offering a seamless user
             experience.
@@ -100,13 +100,13 @@ const CentralContent = () => {
             <ListItem sx={{ display: "list-item" }}>
               <ListItemText>
                 <Paragraph>
-                  Experience the power of text visualization with our <B>Text to Image AI Converter</B>. Transform words
+                  Experience the power of text visualization with our <B>AI Text to Image Generator</B>. Transform words
                   into captivating visuals and unleash your creativity today!
                 </Paragraph>
               </ListItemText>
             </ListItem>
           </List>
-          <HeadingTwo id="how" title="How to Use Text to Image AI Converter?" />
+          <HeadingTwo id="how" title="How to Use AI Text to Image Generator?" />
           <List sx={{ listStyle: "square", listStylePosition: "outside" }}>
             <ListItem sx={{ display: "list-item" }}>
               <ListItemText>
