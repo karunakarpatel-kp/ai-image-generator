@@ -119,7 +119,7 @@ export const SEO_OBJ: SEOObjProps = {
     description:
       "Our ai text to image generator utilizes advanced artificial intelligence algorithms to convert plain text into hd images. Whether you're creating social media graphics, presentations, or artistic designs, our platform simplifies the conversion process, offering a seamless user experience.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
-    publishedTime: "2024-01-29T17:07:55+00:00",
+    publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
     featuredImageAltText: "a-person-with-computer",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
@@ -138,7 +138,7 @@ export const SEO_OBJ: SEOObjProps = {
     description:
       "Welcome to ai text to image generator privacy policy. In here you can find all the details about privacy policy of AITextToImageGenerator",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
-    publishedTime: "2024-01-29T17:07:55+00:00",
+    publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
     featuredImageAltText: "a-person-with-computer",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
@@ -151,7 +151,7 @@ export const SEO_OBJ: SEOObjProps = {
     description:
       "Welcome to ai text to image generator contact page. In here you can find all the details of about ai-text-to-image-generator contact information and a way to contact administrator of the ai text to image generator site.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
-    publishedTime: "2024-01-29T17:07:55+00:00",
+    publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
     featuredImageAltText: "a-person-with-computer",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
@@ -164,7 +164,7 @@ export const SEO_OBJ: SEOObjProps = {
     description:
       "Welcome to ai-text-to-image-generator disclaimer page. In here you can find all the details of about AITextToImageGenerator Disclaimer and its policies.",
     lastUpdateTime: `${dynamicLastUpdatedTime()}`,
-    publishedTime: "2024-01-29T17:07:55+00:00",
+    publishedTime: "2024-02-25T12:38:42+05:30",
     featuredImage: textToImageWelcomeImage,
     featuredImageAltText: "a-person-with-computer",
     ogImageURL: `${BASE_URLS.HOME_PAGE_BASE_URL}/welcome-page.png`,
